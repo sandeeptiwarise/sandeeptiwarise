@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, Architecture & System Designing and Project Managment
 - 🌱 I’m currently learning Cyber Security and Post Quantum Safe Cryptographic Algorithms Implementation
 - 💞️ I’m looking to collaborate on DevOps Engineering Projects and Full Stack Development Using React, Spring & Django Web Framework, DRF REST Web Services and Spring Boot Microservices
-- 📫 How to reach me ...ping me at sandeeptiwarise@gmail.com
+- 📫 How to reach me ...inbox me at sandeeptiwarise@gmail.com
 
 <!---
 sandeeptiwarise/sandeeptiwarise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
