@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lead Componenet Development Engineering, Software Engineering, Architecture & System Designing as well as in Project Managment, into the domain of REST Web Services and Microservices development using Java, Python and MERN/MEAN Full Stack Web Development as well as DevOps Engineering with Cloud Computing.
 - 🌱 I’m currently learning Design Patterns in Microservices and Vue.js
 - 💞️ I’m looking to collaborate on open source Full Stack Web Development projects Using React, Spring Boot & Django Web Framework, OAuth 2.0, DRF REST Web Services and Spring Boot Microservices
-- 📫 How to reach me ...inbox me at sandeeptiwarise@gmail.com or sandeep@synergyquantum.swiss
+- 📫 How to reach me ...inbox me at sandeeptiwarise@gmail.com or sandeep.tiwari@sarvagram.com
 
 <!---
 sandeeptiwarise/sandeeptiwarise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
