@@ -1,10 +1,41 @@
-👋 Hi, I’m @sandeeptiwarise having 5 years of Experience In Java Full Stack Senior Software Engineering and Tech Lead and 8 years of Enterpreneur and Subject Matter Expert. I own a code learning platform as Founder CEO - SkillUpZone and was an Ex Founder Director to Issac IT Lab Solutions LLP<br/>
-👀 I’m a Serial Enterprenur and a die hard techie with dedicated effort in Full Stack Software Engineering, RESTful Web Services, Microservices development using Spring Boot, Angular and React Front End, Architecture & System Designing as well as in DevOps Engineering and Cloud Computing<br/>
-🌱 I’m currently learning DevSecOps<br/> 
-💞️ I’m looking to collaborate on open source Full Stack Web Development projects Using React, Spring Boot & OAuth 2.0, REST Web Services and Spring Boot Microservices<br/>
-📫 How to reach me ...inbox me at sandeeptiwarise@gmail.com<br/>
+# Hi, I’m @sandeeptiwarise  
 
-<!---
-sandeeptiwarise/sandeeptiwarise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Tech Leader, AI Innovator, and Serial Entrepreneur with 15 years of experience** spanning Software Engineering, Entrepreneurship, and AI Leadership**.  
+
+💼 With over 8 years in Java Full Stack Development as a Senior Software Engineer and Tech Leader, and 7 years as an Entrepreneur and Subject Matter Expert, I’ve built and scaled multiple tech-driven projects.
+
+🚀 I’m the Ex Founder & Director of — a next-generation learning platform empowering developers and engineers with real-world coding skillsat Issac IT Lab Solutions LLP.
+
+---
+
+### 🧠 What I Do
+- 🔹 **Full Stack Software Engineering** using **Java, Spring Boot, Angular, React**
+- 🔹 **RESTful APIs** and **Microservices Architecture**
+- 🔹 **System Design & Cloud-Native Development**
+- 🔹 **DevOps & DevSecOps** for secure CI/CD pipelines
+- 🔹 **AI Engineering & Leadership** — driving innovation through intelligent automation and Gen AI systems
+
+---
+
+### 🌱 Currently Exploring
+- **DevSecOps**  
+- **AI Leadership & Agentic AI Engineering**  
+- **Building AI-first startups with human-centric design**
+
+---
+
+### 💞️ Collaboration Goals
+I’m open to collaborating on:
+- Open-source **Full Stack Web Development** projects  
+- **Spring Boot Microservices** with OAuth 2.0 and RESTful Web Services  
+- **AI + Automation** projects that blend creativity and engineering excellence  
+
+---
+
+### 📫 Connect With Me
+📧 Email: **sandeeptiwarise@gmail.com**  
+🌐 LinkedIn / GitHub / Twitter — let’s build, learn, and innovate together!  
+
+---
+
+
